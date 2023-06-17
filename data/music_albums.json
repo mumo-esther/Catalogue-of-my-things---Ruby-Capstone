@@ -1,0 +1,20 @@
+[
+  {
+    "title": "New Album",
+    "on_spotify": true,
+    "genre": "Comedy",
+    "publish_date": "2020-01-23"
+  },
+  {
+    "title": "New",
+    "on_spotify": true,
+    "genre": "rnb",
+    "publish_date": "2023-05-30"
+  },
+  {
+    "title": "Title",
+    "on_spotify": true,
+    "genre": "LL",
+    "publish_date": "2023-04-04"
+  }
+]
